@@ -1,2 +1,2 @@
-# SQL Capston Project ( NFT Cryptopunks )
+# NFT Project ( Cryptopunks )
 
